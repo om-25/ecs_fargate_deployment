@@ -15,5 +15,5 @@ variable "subnet_ids" {
 }
 
 variable "desired_count" {
-  default = 2
+  default = 1
 }
